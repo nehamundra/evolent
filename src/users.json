@@ -1,0 +1,15 @@
+{"users":[{
+    "id":1,
+    "firstName":"John",
+    "lastName":"Mathews",
+    "email":"johnm@gmail.com",
+    "phNo":"225544789",
+    "status":"Active"
+},{
+    "id":2,
+    "firstName":"Peter",
+    "lastName":"Gates",
+    "email":"peterG@gmail.com",
+    "phNo":"225548789",
+    "status":"Inactive"
+}]}
